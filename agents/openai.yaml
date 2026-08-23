@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Producer"
+  short_description: "覆盖商业、科技、教学、汇报、党建与创意的PPT生产工作流"
+  default_prompt: "使用 $ppt-producer 根据我的场景和交付要求制作专业演示文稿。"
